@@ -13,7 +13,6 @@
 - 🆓 [Freelancer](https://www.fiverr.com/alex_apf?up_rollout=true) Product developer
 - 📚 Engenienrign Mechanical
 - 📲 Create for [CheckList](https://play.google.com/store/apps/details?id=com.teampro.checklist&pcampaignid=web_share) and [Kinexys](https://play.google.com/store/apps/details?id=com.teampro.telekinesis&pcampaignid=web_share).
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 
 
 
